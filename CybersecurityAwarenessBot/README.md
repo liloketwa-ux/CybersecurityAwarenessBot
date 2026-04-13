@@ -46,7 +46,7 @@ CybersecurityAwarenessBot/
 
 ## Presentation Video
 
-[Watch the unlisted YouTube demo](PASTE-YOUR-YOUTUBE-LINK-HERE)
+[Watch the unlisted YouTube demo](https://youtube.com/shorts/ugDbBqRDTRk?si=wqaw29hJG21uEWhJ)
 
 ## GitHub Commit History
 
