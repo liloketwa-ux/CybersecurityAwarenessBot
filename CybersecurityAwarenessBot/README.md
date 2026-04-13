@@ -44,13 +44,21 @@ CybersecurityAwarenessBot/
 4. Run the console application.
 5. Type your name and start asking cybersecurity questions.
 
-## Important Submission Notes
-- Replace `Assets/welcome.wav` with your own recorded voice greeting before final submission.
-- Push the full project to GitHub.
-- Make at least six meaningful commits.
-- Ensure your GitHub Actions workflow shows a successful green check.
-- Add a screenshot of the successful CI run into this README before submission.
-- Submit your unlisted YouTube presentation link separately as required.
+## Presentation Video
+
+[Watch the unlisted YouTube demo](PASTE-YOUR-YOUTUBE-LINK-HERE)
+
+## GitHub Commit History
+
+![Commit History](screenshots/commits.png)
+
+## GitHub Actions CI
+
+![GitHub Actions Passed](screenshots/actions-pass.png)
+
+## Chatbot Running
+
+![Chatbot Output](screenshots/chatbot-run.png)
 
 ## Suggested Commit Messages
 1. Initial commit: Set up project structure and core files
