@@ -52,18 +52,4 @@ CybersecurityAwarenessBot/
 
 ![Commit History](screenshots/commits.png)
 
-## GitHub Actions CI
 
-![GitHub Actions Passed](screenshots/actions-pass.png)
-
-## Chatbot Running
-
-![Chatbot Output](screenshots/chatbot-run.png)
-
-## Suggested Commit Messages
-1. Initial commit: Set up project structure and core files
-2. Added ASCII splash screen and console styling
-3. Implemented voice greeting playback
-4. Added personalised greeting and user interaction
-5. Implemented cybersecurity knowledge base and input validation
-6. Added GitHub Actions workflow and updated README
